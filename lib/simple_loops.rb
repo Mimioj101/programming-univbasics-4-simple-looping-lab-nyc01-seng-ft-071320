@@ -13,7 +13,9 @@ end
 
 
 def output_array(arr)
-
-
-
+  counter = 0 
+  while counter < arr.length
+   puts arr[counter]
+   counter += 1 
+  end
 end
