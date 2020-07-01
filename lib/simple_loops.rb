@@ -23,7 +23,8 @@ end
 
 def return_string_array(arr)
  counter = 0 
- while counter < arr.length
- 
-
+  while counter < arr.length
+    arr[counter].to_s
+  end
+  puts arr
 end
