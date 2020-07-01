@@ -26,5 +26,5 @@ def return_string_array(arr)
   while counter < arr.length
     arr[counter].to_s
   end
-  puts arr
+  arr
 end
