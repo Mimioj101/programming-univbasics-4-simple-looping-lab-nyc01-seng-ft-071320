@@ -19,3 +19,11 @@ def output_array(arr)
    counter += 1 
   end
 end
+
+
+def return_string_array(arr)
+ counter = 0 
+ while counter < arr.length
+ 
+
+end
