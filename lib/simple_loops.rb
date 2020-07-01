@@ -28,4 +28,5 @@ def return_string_array(arr)
     new_array.push(arr[counter].to_s)
     counter += 1
   end
+ new_array
 end
